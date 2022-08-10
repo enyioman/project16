@@ -65,7 +65,9 @@ resource "aws_vpc" "main" {
 }
 ```
 
-- Download the necessary plugins for Terraform to work. These plugins are used by providers and provisioners. At this stage, we only have provider in our main.tf file. So, Terraform will just download plugin for AWS provider.
+Run `terraform init` to initialize the Terraform configuration and download necessary plugins for Terraform to work. Since we only have provider in our `main.tf file`. Terraform will just download plugin for AWS provider.
+
+![Terraform init](./media/tfinit.png)
 
 - Run the below commands to improve the format of the code:
 
