@@ -69,7 +69,7 @@ Run `terraform init` to initialize the Terraform configuration and download nece
 
 ![Terraform init](./media/tfinit.png)
 
-- Run the below commands to improve the format of the code:
+- Run the below commands to improve the format and validate the code:
 
 ```
 terraform fmt
