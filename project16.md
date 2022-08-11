@@ -330,7 +330,7 @@ resource "aws_subnet" "public" {
 }
 ```
 
-## Introducing variables.tf & terraform.tfvars
+## Introducing `variables.tf` & `terraform.tfvars`
 
 Instead of having a long list of variables in `main.tf` file, we can actually make our code a lot more readable and better structured by moving out some parts of the configuration content to other files.
 
