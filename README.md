@@ -6,3 +6,5 @@ The architecture remains the AWS end-to-end solution for a 3-tier application.
 
 ![Architecture](./media/archy.png)
 
+
+[Full documentation](https://github.com/enyioman/project16/blob/main/project16.md)
